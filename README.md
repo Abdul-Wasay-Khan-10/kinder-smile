@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kinder Smile React Frontend
 
 ## Structure
@@ -23,3 +24,6 @@
    ```
    npm start
    ```
+=======
+# kinder-smile
+>>>>>>> 8c53359f8c55d10b405d741a355ca488623530d8
